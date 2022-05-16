@@ -1,0 +1,158 @@
+body {
+    width: 100%;
+}
+
+.menu {
+    width: 1600px;
+    height: 75px;
+    background: black;
+    position: relative;
+}
+
+.spisokmenu {
+list-style-type: none;
+}
+
+.content {
+    width: 1600px;
+    height: 764px;
+    top: -16px;
+    background: #F1E4E6;
+    position: relative;
+}
+
+.spisok {
+    list-style-type: none;
+}
+
+.img_men {
+    position: absolute;
+    top: 0px;
+}
+
+.modeli {
+    margin-top: 48px;
+    margin-left: 230px;
+    width: 1140px;
+    height: 260px;
+    list-style-type: none;
+}
+
+.women {
+    width: 360px;
+    height: 260px;
+    top: 904px;
+    left: 230px;
+    float: left;
+    background-image: url(img/womenmax.png);
+   
+}
+
+.men {
+    width: 360px;
+    height: 260px;
+    top: 904px;
+    left: 620px;
+    float: left;
+    margin: 0 0 0 27px;
+    background-image: url(img/menmax.png);
+}
+
+.kids {
+    width: 360px;
+    height: 260px;
+    top: 904px;
+    left: 1010px;
+    float: left;
+    margin: 0 0 0 27px;
+    background-image: url(img/kidsmax.png);
+}
+
+.accesories {
+    width: 1140px;
+    height: 180px;
+    margin-top: 30px;
+    margin-left: 230px;
+    background-image: url(img/accesoriesmax.png);
+}
+
+.brandfashion {
+    position: absolute;
+    width: 377px;
+    height: 93px;
+    
+    right: 387px;
+    top: 373px;
+}
+
+.brandlux {
+   width: 100%; 
+   height: 100%;
+}
+
+.element {
+    width: 12px;
+    height: 93px;
+    
+    position: absolute;
+    right: 782px;
+    top: 373px;
+}
+
+.menu_logo {
+    position: absolute;
+    width: 44px;
+    height: 38px;
+    top: 10px;
+    left: 231px; 
+}
+
+.nayti {
+    position: absolute;
+    width: 26px; 
+    height: 26.79px;
+    top: 21.21px;
+    left: 316px;
+}
+
+.saytmenu {
+    position: absolute;
+    width: 32px; 
+    height: 23px;
+    top: 25.21px;
+    left: 1201px;
+}
+
+.menuglav {
+width: 100%;
+height: 100%;
+}
+
+.avtor {
+    position: absolute;
+    width: 29px; 
+    height: 29px;
+    top: 19px;
+    left: 1266px;
+}
+
+.magazin {
+    position: absolute;
+    width: 32px; 
+    height: 29px;
+    top: 20.21px;
+    left: 1328px;
+}
+
+.five {
+    top: 22px;
+    position: absolute;
+    left: 1357px;
+}
+
+.krug {
+    top: 18px;
+    position: absolute;
+    left: 1350px; 
+}
+
